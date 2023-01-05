@@ -21,7 +21,7 @@
 		
 	<div class="container">
 		<div class="text-center">
-		마니네 게임 공략 페이지 : <a href ="www.jmany.ga">www.jmany.ga</a>
+		마니네 게임 공략 페이지 : <a href ="https://www.jmany.ga/">www.jmany.ga</a>
 		</div>
 	</div>
 	
